@@ -1,14 +1,4 @@
-# hello-word
-just my first project
-
->>>>git config setting<<<<<
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = false
-	logallrefupdates = true
-	symlinks = false
-	ignorecase = true
+'[core]
 [remote "hello-word"]
 	url = git@github.com:shujw/hello-word.git
 	fetch = +refs/heads/*:refs/remotes/hello-word/*
@@ -21,5 +11,4 @@ just my first project
 [branch "master"]
 	remote = hello-word
 	merge = refs/heads/master
-	atomPrUrl = https://github.com/shujw/hello-word/pull/2
-	
+	atomPrUrl = https://github.com/shujw/hello-word/pull/2'
