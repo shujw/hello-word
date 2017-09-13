@@ -1,3 +1,4 @@
+```
 [core]
 	repositoryformatversion = 0
 	filemode = false
@@ -18,3 +19,4 @@
 	remote = hello-word
 	merge = refs/heads/master
 	atomPrUrl = https://github.com/shujw/hello-word/pull/2
+  ```
