@@ -1,7 +1,3 @@
-# hello-word
-just my first project
-
->>>>git config setting<<<<<
 [core]
 	repositoryformatversion = 0
 	filemode = false
@@ -22,4 +18,3 @@ just my first project
 	remote = hello-word
 	merge = refs/heads/master
 	atomPrUrl = https://github.com/shujw/hello-word/pull/2
-	
